@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "projectName": "LAPTOP-ZONE",
+        "proImage": "https://i.ibb.co/xzn3pwq/website-1.png",
+        "screenSHot": ["https://i.ibb.co/njGVSWV/screencapture-resale-assignment-firebaseapp-2022-12-11-22-32-11.png", "https://i.ibb.co/Pz4tKsj/screencapture-resale-assignment-firebaseapp-dashboard-allbyers-2022-12-11-22-41-45.png", "https://i.ibb.co/3fK4Ky8/screencapture-resale-assignment-firebaseapp-dashboard-myproducts-2022-12-11-22-43-50.png"],
+        "proDetail": "This is Full Stack web page where admin, seller and buyer have their different role...",
+        "fullDetail": ["This is a full stack website and authorize for Admin seller and Buyers", "Buyers book laptop for sale and saw her/his booking in dashboard", "buyer paid price using card for clicking pay button", "A seller add product for sale saw product in dashboard my product route.. seller can advertise product and delete also", "advertise item show in home page", "admin saw all seller and buyer and reported items and delete if he want"],
+        "tech": ["React", "Tailwind", "Stripe", "Node JS", "Express Js", "mongoDB", "JWT", "firebase", "vercel"],
+        "liveLink": "https://resale-assignment.firebaseapp.com/",
+        "clintLink": "https://github.com/ajhridoy/resale-assignment-client",
+        "serverLink": "https://github.com/ajhridoy/resale-assignment-server"
+    },
+    {
+        "id": 2,
+        "projectName": "PHOTO-HUB",
+        "proImage": "https://i.ibb.co/n6wDhPY/photo-1542038784456-1ea8e935640e-a3a4fc71478b5196fa57.jpg",
+        "screenSHot": ["https://i.ibb.co/wcgd5Zc/screencapture-service-review-assinment-firebaseapp-2022-12-12-00-26-30.png", "https://i.ibb.co/yBfbS5V/screencapture-service-review-assinment-firebaseapp-services-2022-12-12-00-27-46.png", "https://i.ibb.co/JvzvRZC/screencapture-service-review-assinment-firebaseapp-service-636cde56844f00b5e0411bd3-2022-12-12-00-29.png"],
+        "proDetail": "A full stack website where people sell their photography services, review service and...",
+        "fullDetail": ["Home section you saw cards, my offers, FAQ", "Every card in a button see details that navigate details route", "details route have 3 section first card details, 2nd client review, 3rd review given options", "here is my review option where shown every reviews you give", "also here is add service option"],
+        "tech": ["create a website using react", "react-router", "firebase", "node", "express", "mongodb", " JWT", "vercel"],
+        "liveLink": "https://service-review-assinment.firebaseapp.com/",
+        "clintLink": "https://github.com/ajhridoy/service-review-client",
+        "serverLink": "https://github.com/ajhridoy/service-review-server"
+    },
+    {
+        "id": 3,
+        "projectName": "Tech-Knowledge",
+        "proImage": "https://i.ibb.co/QN5XCJT/website-3.png",
+        "screenSHot": ["https://i.ibb.co/cL9gdtb/screencapture-learning-platform-assign-4901b-firebaseapp-2022-12-12-00-34-23.png", "https://i.ibb.co/RPKSz1D/screencapture-learning-platform-assign-4901b-firebaseapp-courses-2022-12-12-00-35-11.png", "https://i.ibb.co/mX08BhJ/screencapture-learning-platform-assign-4901b-firebaseapp-course-3-2022-12-12-00-35-54.png"],
+        "proDetail": "This website based on tech courses people buy course and download course pdf...",
+        "fullDetail": ["Responsive Navbar which have logo some routes and login option plus toggle button", "Home page give you overview website", "Courses page have 6 courses section and a side menu", "Every course card are dynamic so you click card it will return details page", "details page shows course details and a button to download pdf course details", "This course details have also premium access button if u click the button you go the check out page", "check out page is a protected page if you ar logged in then you go or this page redirect you to log in page", "this page login and signup system also", "every data in the course get in the serer which i create a fake data"],
+        "tech": ["Firebase for Authentication", "React Router", "Tailwind css", "React-to-pdf", "React Hot Toast", "vercel for server", "node.js", "Express Js"],
+        "liveLink": "https://learning-platform-assign-4901b.firebaseapp.com/course/3",
+        "clintLink": "https://github.com/ajhridoy/learning-platform-assignment-client",
+        "serverLink": "https://github.com/ajhridoy/learning-platform-assignment-server"
+    }
+]
